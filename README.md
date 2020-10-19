@@ -1,3 +1,11 @@
+# cra-portal-auth-starter
+
+Add description of the app here...
+
+*Note* Do not use this as a basis for a production application - this should _only_ be used for simple demos/hack apps.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
